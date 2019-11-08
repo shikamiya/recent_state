@@ -20,7 +20,7 @@
 
 title: Recent state
 description: Blog or something
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/recent_state" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shikamiya
 github_username:  shikamiya
